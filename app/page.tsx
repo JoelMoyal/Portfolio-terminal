@@ -1,5 +1,5 @@
 import PortfolioTerminal from '@/components/ui/interactive-portfolio-terminal-component'
 
-export default function Home() {
+export default function HomePage() {
   return <PortfolioTerminal />
 }
