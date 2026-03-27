@@ -134,7 +134,7 @@ AI / ML:
   LangChain                ████████████░░░░░░░░  60%
 
 Design:
-  Adobe Creative Suite     ██████████████████░░  90%
+  Adobe Creative Suite     ███████████��██████░░  90%
   Brand Identity           ██████████████████░░  90%
   Responsive Web Design    ████████████████████ 100%
 `,
@@ -325,7 +325,7 @@ Best method:  Email or LinkedIn
             <div className="w-3 h-3 rounded-full bg-green-500 hover:bg-green-400 transition-colors cursor-pointer" />
           </div>
           <div className="flex-1 text-center font-semibold">
-            joel@portfolio-terminal:~$ | Interactive Portfolio v1.0
+            joel
           </div>
           <div className="text-xs">
             <span className="text-green-400">●</span> ONLINE
