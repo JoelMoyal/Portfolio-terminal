@@ -328,7 +328,7 @@ Best method:  Email or LinkedIn
             joel
           </div>
           <div className="text-xs">
-            <span className="text-green-400">●</span> ONLINE
+            <span className="text-emerald-400">●</span> ONLINE
           </div>
         </div>
 
