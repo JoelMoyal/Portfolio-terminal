@@ -318,7 +318,7 @@ Best method:  Email or LinkedIn
     <div className="flex items-center justify-center min-h-screen bg-gray-900 text-green-400 p-4 font-mono">
       <div className="w-full max-w-5xl bg-black rounded-lg overflow-hidden shadow-2xl border border-green-400">
         {/* Terminal Header */}
-        <div className="flex items-center gap-2 p-3 bg-gray-800 text-xs text-gray-400">
+        <div className="flex items-center gap-2 p-3 bg-zinc-800 text-xs text-gray-400">
           <div className="flex gap-1.5">
             <div className="w-3 h-3 rounded-full bg-red-500 hover:bg-red-400 transition-colors cursor-pointer" />
             <div className="w-3 h-3 rounded-full bg-yellow-500 hover:bg-yellow-400 transition-colors cursor-pointer" />
