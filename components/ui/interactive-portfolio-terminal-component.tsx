@@ -321,7 +321,7 @@ Best method:  Email or LinkedIn
         <div className="flex items-center gap-2 p-3 bg-gray-800 text-xs text-gray-400">
           <div className="flex gap-1.5">
             <div className="w-3 h-3 rounded-full bg-red-500 hover:bg-red-400 transition-colors cursor-pointer" />
-            <div className="w-3 h-3 rounded-full bg-yellow-500 hover:bg-yellow-400 transition-colors cursor-pointer" />
+            <div className="w-3 h-3 rounded-full bg-orange-500 hover:bg-orange-400 transition-colors cursor-pointer" />
             <div className="w-3 h-3 rounded-full bg-green-500 hover:bg-green-400 transition-colors cursor-pointer" />
           </div>
           <div className="flex-1 text-center font-semibold">
