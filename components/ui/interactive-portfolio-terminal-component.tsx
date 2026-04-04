@@ -324,7 +324,7 @@ Best method:  Email or LinkedIn
             <div className="w-3 h-3 rounded-full bg-yellow-500 hover:bg-yellow-400 transition-colors cursor-pointer" />
             <div className="w-3 h-3 rounded-full bg-green-500 hover:bg-green-400 transition-colors cursor-pointer" />
           </div>
-          <div className="flex-1 text-center font-semibold">
+          <div className="flex-1 text-center font-medium">
             joel
           </div>
           <div className="text-xs">
