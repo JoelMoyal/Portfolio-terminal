@@ -315,7 +315,7 @@ Best method:  Email or LinkedIn
   }
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gray-900 text-emerald-400 p-4 font-mono">
+    <div className="flex items-center justify-center min-h-screen bg-gray-900 text-green-400 p-4 font-mono">
       <div className="w-full max-w-5xl bg-black rounded-lg overflow-hidden shadow-2xl border border-green-400">
         {/* Terminal Header */}
         <div className="flex items-center gap-2 p-3 bg-gray-800 text-xs text-gray-400">
@@ -328,7 +328,7 @@ Best method:  Email or LinkedIn
             joel
           </div>
           <div className="text-xs">
-            <span className="text-emerald-400">●</span> ONLINE
+            <span className="text-green-400">●</span> ONLINE
           </div>
         </div>
 
@@ -363,7 +363,7 @@ Best method:  Email or LinkedIn
               autoFocus
               spellCheck="false"
             />
-            <span className="text-emerald-400 animate-pulse">█</span>
+            <span className="text-green-400 animate-pulse">█</span>
           </div>
 
           <div ref={bottomRef} />
