@@ -324,7 +324,7 @@ Best method:  Email or LinkedIn
             <div className="w-3 h-3 rounded-full bg-yellow-500 hover:bg-yellow-400 transition-colors cursor-pointer" />
             <div className="w-3 h-3 rounded-full bg-green-500 hover:bg-green-400 transition-colors cursor-pointer" />
           </div>
-          <div className="flex-1 text-center font-semibold">
+          <div className="flex-1 text-center font-bold">
             joel
           </div>
           <div className="text-xs">
@@ -341,7 +341,7 @@ Best method:  Email or LinkedIn
           {history.map((entry, i) => (
             <div key={i} className="space-y-2">
               <div className="flex gap-2">
-                <span className="text-cyan-400 font-semibold">joel@portfolio:~$</span>
+                <span className="text-cyan-400 font-bold">joel@portfolio:~$</span>
                 <span className="text-white">{entry.command}</span>
               </div>
               <div className="whitespace-pre-wrap text-gray-300 pl-6 leading-relaxed">
@@ -352,7 +352,7 @@ Best method:  Email or LinkedIn
 
           {/* Input line */}
           <div className="flex gap-2 items-center">
-            <span className="text-cyan-400 font-semibold">joel@portfolio:~$</span>
+            <span className="text-cyan-400 font-bold">joel@portfolio:~$</span>
             <input
               ref={inputRef}
               type="text"
